@@ -5,7 +5,7 @@ html{
 body{
     position:relative;
     text-align:center;
-    background: #7FFFD4;
+    background: #9400D3;
     min-height: 100%;
     padding: 5%;
 }
@@ -15,7 +15,7 @@ h1{
 }
 
 button{
-    background: #7FFFD4;
+    background: #9400D3;
     align-items: center;
     justify-content: center;
     border: 3px black solid;
@@ -24,6 +24,8 @@ button{
     height: 10vmin;
     font-size: 5vmin;
     margin: 5vmin;
+    color: #FFF;
+    box-shadow: 2px 2px 50px #9400D3;
 }
 
 footer{
@@ -34,7 +36,7 @@ footer{
     bottom: 0;
     right: 0;
     background: rgba(0,0,0,0.8);
-    color: #7FFFD4;
+    color: #9400D3;
     width: 100%;
     padding: 2%;
     margin: 0;
